@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/126507342?v=4&size=128" alt="Neura Lumina" width="120" style="border-radius: 50%;"/>
 </p>
 
-<h1 align="center">Neura&nbsp;Lumina</h1>
+<h1 align="center">Neuralumina</h1>
 
 <p align="center">
   <strong>Illuminating tomorrow's possibilities through intelligent software.</strong>
