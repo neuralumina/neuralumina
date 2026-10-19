@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/126507342?v=4&size=128" alt="Neura Lumina" width="120" style="border-radius: 50%;"/>
+  <img src="https://avatars.githubusercontent.com/u/126507342?v=4&size=128" alt="Neuralumina" width="120" style="border-radius: 50%;"/>
 </p>
 
 <h1 align="center">Neuralumina</h1>
@@ -66,5 +66,5 @@ For general correspondence: **[neuralumina@gmail.com](mailto:neuralumina@gmail.c
 ---
 
 <p align="center">
-  <sub>Precision · Innovation · Intelligence &nbsp;·&nbsp; © 2026 Neura Lumina</sub>
+  <sub>Precision · Innovation · Intelligence &nbsp;·&nbsp; © 2026 Neuralumina</sub>
 </p>
